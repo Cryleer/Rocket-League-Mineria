@@ -564,7 +564,7 @@ CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0"]
 
 ## 📝 Changelog
 
-### v1.0.0 (Diciembre 2024)
+### v1.0.0 
 
 #### Added
 - ✨ Sistema completo de ML para Rocket League
@@ -585,21 +585,6 @@ CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0"]
 - 📚 RESUMEN_TESTS.md
 - 📚 EVIDENCIAS_PRUEBAS.md
 
----
-
-## 📧 Contacto
-
-**Proyecto**: Rocket League Match Predictor  
-**Curso**: Minería de Datos  
-**Institución**: Santo Tomás  
-**Fecha**: Diciembre 2024  
-**Versión**: 1.0.0  
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
@@ -634,13 +619,5 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - [ ] A/B testing de modelos
 
 ---
-
-<div align="center">
-
-**⭐ Si te gustó este proyecto, dale una estrella ⭐**
-
-Made with ❤️ by [Tu Nombre]
-
-[⬆ Volver arriba](#-rocket-league---sistema-de-predicción-ml)
 
 </div>
